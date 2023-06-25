@@ -1,0 +1,27 @@
+.total-div{
+    display: flex;
+    flex-direction: row;
+    height:50px;
+}
+.Rcolor{
+    background-color: burlywood;
+    width: 100px;
+}
+.second-row{
+    background-color: cadetblue;
+    width: 200px;
+}
+.row{
+    justify-content: space-between;
+    display: flex;
+}
+.div-row{
+    background-color: black;
+    color:white;
+}
+p{
+    font-size: 20px;
+    margin-left: 80px;
+    font-weight: bold;
+    margin-bottom:2px;
+}
